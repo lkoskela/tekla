@@ -1,0 +1,11 @@
+These are the top 3 web pages you might want to bookmark:
+
+1) Visual Git cheatsheet:
+   http://ndpsoftware.com/git-cheatsheet.html
+
+2) Git manual page on "reset":
+   http://git-scm.com/blog/2011/07/11/reset.html
+
+3) Google:
+   http://www.google.com
+
