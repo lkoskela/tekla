@@ -1,4 +1,4 @@
 tekla
 =====
 
-Demo repository for Tekla
+This is a demo repository for Tekla
